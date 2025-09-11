@@ -44,6 +44,15 @@ header nav li a {
 /* HEADER END */
 
 /* WORK_EXPERIENCE */
+#workexperience article h4 {
+    margin-bottom: 0;
+    box-sizing: border-box;
+}
+#workexperience ul {
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+    box-sizing: border-box;
+}
 /* WORK_EXPERIENCE END */
 
 /* ABOUT_ME */
